@@ -5,6 +5,7 @@ This readme file belongs to both the tasks
 Task-1
 
 # Retrieval-Augmented Generation (RAG) Pipeline
+google colab link: https://colab.research.google.com/drive/1stvmUfqEJst_T3xtAppOWzCwkRU_uwQU?usp=sharing
 
 ## Overview
 This project implements a Retrieval-Augmented Generation (RAG) pipeline to extract text from PDF files, process and embed the text, store embeddings, and generate detailed responses to user queries using OpenAI's API. 
